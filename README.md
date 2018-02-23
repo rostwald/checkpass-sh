@@ -15,6 +15,7 @@ The return value is the counter representing how often the given password appear
 
 ```shell
 ./passcheck.sh <password>
+echo "password" | ./passcheck.sh
 ```
 
 ## Resources
