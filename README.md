@@ -1,4 +1,4 @@
-# passcheck-sh
+# checkpass-sh
 
 Check a password against the HIBP database. Uses the range feature for k-Anonymity of the V2 API,
 so it only sends the first 5 characters of the SHA-1 hash over the wire.
