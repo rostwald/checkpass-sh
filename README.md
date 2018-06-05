@@ -1,3 +1,6 @@
+# MOVED TO GITLAB:
+https://gitlab.com/rostwald/checkpass-sh
+
 # checkpass-sh
 
 Check a password against the HIBP database. Uses the range feature for k-Anonymity of the V2 API,
